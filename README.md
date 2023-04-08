@@ -1,4 +1,4 @@
-# Handwriting-recognition-of-Persian-numbers
+# Handwriting Recognition Of Persian Numbers
 This code is written to recognize the handwriting of Persian numbers using the KNN algorithm.
 
 ### requierments:
