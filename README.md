@@ -4,4 +4,5 @@ This code is written to recognize the handwriting of Persian numbers using the K
 ### requierments:
 
 ```
+python3 -m pip install -U scikit-image
 ```
